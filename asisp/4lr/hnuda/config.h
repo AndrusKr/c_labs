@@ -1,0 +1,1 @@
+int PROCCESSES_COUNT = 5;
